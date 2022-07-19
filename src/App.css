@@ -124,3 +124,9 @@
   0% { transform: translateY(-80px); opacity: 0 }
   100% { transform: translateY(0px); opacity: 1 }
 }
+
+p{
+  font-size: 30px;
+  text-align: center;
+  margin: 20px;
+}
